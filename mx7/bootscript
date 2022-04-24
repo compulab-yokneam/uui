@@ -3,7 +3,7 @@ setenv oload 0x83000000
 setenv iface mmc
 setenv inum 0
 setenv offset 0x400
-setenv bootloader u-boot.imx
+setenv bootloader bootloader
 setenv gpio 174
 setenv sleep 0.1
 

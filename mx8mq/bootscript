@@ -4,7 +4,7 @@ setenv mmcdev 0
 setenv mmcpart 2
 setenv mmcoff 0x42
 setenv bsize 0xD00
-setenv bootloader imx-boot
+setenv bootloader bootloader
 
 # Load the new booloader from the file system
 # 1) iface/dev/part defined by the default u-boot environment

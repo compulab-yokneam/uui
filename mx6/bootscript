@@ -3,7 +3,7 @@ setenv oload 0x18000000
 setenv iface mmc
 setenv inum 2
 setenv offset 0x400
-setenv bootloader u-boot.imx
+setenv bootloader bootloader
 
 # Load the new booloader from the file system
 # 1) Read a new bootloader from the mmc u-boot.imx if exist
