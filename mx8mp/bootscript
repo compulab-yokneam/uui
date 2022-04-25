@@ -1,7 +1,7 @@
 setenv nload ${loadaddr}
 setenv oload ${fdt_addr}
 setenv mmcdev 2
-setenv mmcpart 2
+setenv mmcpart 1
 setenv mmcoff 0x0
 setenv bsize 0xD00
 setenv bootloader bootloader
